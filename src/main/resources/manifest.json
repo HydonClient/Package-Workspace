@@ -1,0 +1,6 @@
+{
+  "name": "Example Addon",
+  "version": "1.0",
+  "author": "Example",
+  "mainClass": "net.hydonclient.packages.example.PackageExample"
+}
